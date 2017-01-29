@@ -44,6 +44,6 @@ class pdfRotater(object):
 		return True
 
 
-file = 'C:\Users\Mingze\Desktop\RotatePDF\\10.pdf'
+file = 'xxx.pdf'
 # print os.path.split(file)
 pdfRotater().rotate(file)
